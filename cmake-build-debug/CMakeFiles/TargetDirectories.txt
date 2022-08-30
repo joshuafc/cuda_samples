@@ -1,0 +1,3 @@
+/home/zhoub/CLionProjects/cudaTest/cmake-build-debug/CMakeFiles/cudaTest.dir
+/home/zhoub/CLionProjects/cudaTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhoub/CLionProjects/cudaTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
